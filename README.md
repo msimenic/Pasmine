@@ -1,2 +1,2 @@
 # Pasmine
-Web aplikacija o pasminama
+Jednostavna web aplikacija o pasminama
